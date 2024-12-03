@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Bakerchahin
+- 👋 Hi, I’m @Baker Chahine
 - 👀 I’m interested in Programming, Football, and Basketball!
 - 🌱 I’m currently learning Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
--                     @instagram: baker.chahin
--                     @linkedin: Baker Chahin
--                     @twitter: Bakrchahin
+-                     @instagram: baker.chahine
+-                     @linkedin: www.linkedin.com/in/baker-chahine-b645a5234
+-                     @twitter: Bakrchahine
 -                     email: bakrchahin@gmail.com
 
 <!---
